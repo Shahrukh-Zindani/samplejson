@@ -1,0 +1,16 @@
+{
+	"devices": [
+		{
+			"name": "A1",
+			"room": 5
+		},
+		{
+			"name": "A2",
+			"room": 2
+		},
+		{
+			"name": "A2",
+			"room": 3
+		}
+	]
+}
